@@ -71,7 +71,7 @@ footer p {
 .pagination--nav {
   display: inline-block;
   width: 243px;
-  float: left;
+  /* float: left; */
   display: inline;
   /* background: red; */
   padding: 0 auto;
